@@ -69,24 +69,22 @@ The application was successfully accessed through the Application Load Balancer 
 
 ## Project Screenshots
 
-### 1. EC2 Instances
-![EC2 Instances](screenshots/Screenshot 2026-10-11 024959.png)
+## Project Screenshots
 
-### 2. Application Load Balancer
-![Application Load Balancer](screenshots/application-load-balancer.png)
+### 1. Screenshot 1
+![Screenshot 1](screenshots/Screenshot%202026-10-11%20024959.png)
 
-### 3. Target Group
-![Target Group](screenshots/target-group.png)
+### 2. Screenshot 2
+![Screenshot 2](screenshots/Screenshot%202026-10-11%20025103.png)
 
-### 4. Auto Scaling Group
-![Auto Scaling Group](screenshots/auto-scaling-group.png)
+### 3. Screenshot 3
+![Screenshot 3](screenshots/Screenshot%202026-10-11%20025154.png)
 
-### 5. CloudWatch Alarm
-![CloudWatch Alarm](screenshots/cloudwatch-alarm.png)
+### 4. Screenshot 4
+![Screenshot 4](screenshots/Screenshot%202026-10-11%20025258.png)
 
-### 6. SNS Notifications
-![SNS Notifications](screenshots/sns-notification.png)
-
+### 5. Screenshot 5
+![Screenshot 5](screenshots/Screenshot%202026-10-11%20025440.png)
 ## Author
 
 **Rajapriya R**
