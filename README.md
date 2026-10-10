@@ -67,6 +67,26 @@ The application was successfully accessed through the Application Load Balancer 
 - Improve security by restricting instance HTTP access to the ALB security group.
 - Add infrastructure and monitoring diagrams.
 
+## Project Screenshots
+
+### 1. EC2 Instances
+![EC2 Instances](screenshots/ec2-instances.png)
+
+### 2. Application Load Balancer
+![Application Load Balancer](screenshots/application-load-balancer.png)
+
+### 3. Target Group
+![Target Group](screenshots/target-group.png)
+
+### 4. Auto Scaling Group
+![Auto Scaling Group](screenshots/auto-scaling-group.png)
+
+### 5. CloudWatch Alarm
+![CloudWatch Alarm](screenshots/cloudwatch-alarm.png)
+
+### 6. SNS Notifications
+![SNS Notifications](screenshots/sns-notification.png)
+
 ## Author
 
 **Rajapriya R**
