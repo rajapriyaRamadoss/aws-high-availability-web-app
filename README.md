@@ -85,6 +85,16 @@ The application was successfully accessed through the Application Load Balancer 
 
 ### 5. Cloud watch Alarm
 ![Screenshot 5](screenshots/Screenshot%202026-10-11%20025440.png)
+
+
+
+## Architecture Diagram
+
+View the project architecture here:
+
+[View AWS Architecture Diagram](architecture/architecture.md)
+
+The architecture shows how user requests reach the Application Load Balancer, which forwards traffic to EC2 web servers through the Target Group. Auto Scaling manages instance capacity, while CloudWatch and SNS support monitoring and alerts.
 ## Author
 
 **Rajapriya R**
