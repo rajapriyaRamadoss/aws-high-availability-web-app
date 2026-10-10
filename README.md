@@ -71,19 +71,19 @@ The application was successfully accessed through the Application Load Balancer 
 
 ## Project Screenshots
 
-### 1. Screenshot 1
+### 1. Instance
 ![Screenshot 1](screenshots/Screenshot%202026-10-11%20024959.png)
 
-### 2. Screenshot 2
+### 2. Load Balancer
 ![Screenshot 2](screenshots/Screenshot%202026-10-11%20025103.png)
 
-### 3. Screenshot 3
+### 3. Target Group
 ![Screenshot 3](screenshots/Screenshot%202026-10-11%20025154.png)
 
-### 4. Screenshot 4
+### 4. Autoscaling Groups
 ![Screenshot 4](screenshots/Screenshot%202026-10-11%20025258.png)
 
-### 5. Screenshot 5
+### 5. Cloud watch Alarm
 ![Screenshot 5](screenshots/Screenshot%202026-10-11%20025440.png)
 ## Author
 
