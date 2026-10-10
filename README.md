@@ -70,7 +70,7 @@ The application was successfully accessed through the Application Load Balancer 
 ## Project Screenshots
 
 ### 1. EC2 Instances
-![EC2 Instances](screenshots/ec2-instances.png)
+![EC2 Instances](screenshots/Screenshot 2026-10-11 024959.png)
 
 ### 2. Application Load Balancer
 ![Application Load Balancer](screenshots/application-load-balancer.png)
